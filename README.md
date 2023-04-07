@@ -27,3 +27,5 @@ Types of joins:
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
+
+jdbc:mysql://localhost:3306/?user=root
